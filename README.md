@@ -7,7 +7,7 @@ This is source code for our paper [EmotionX-DLC: Self-Attentive BiLSTM for Detec
 ## Dataset
 Please go to the share task webpage: http://doraemon.iis.sinica.edu.tw/emotionlines/challenge.html to download or request data
 needed for training and testing. You need to create a directory **EmotionPush** to store EmotionPush data (which you need to make
-a request to the organizer). The saved files should be renamed as emotionpush_{train, dev, test}. For either testset for **Friends**
+a request to the organizer). The saved files should be renamed as emotionpush_{train, dev, test}. For testset either of **Friends**
 or **EmotionPush**, you need to make a formal request to the organizer.
 
 ## Glove
