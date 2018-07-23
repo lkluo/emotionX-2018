@@ -14,7 +14,7 @@ or **EmotionPush**, you need to make a formal request to the organizer.
 Please download pre-trained Glove data with 300d size (**glove.840B.300d.txt**) or 50d size (**glove.twitter.27B.50d**).
 
 ## Model training
-**python3 train.py** or **./train.sh**
+python(3) train.py or ./train.sh
 
 ## Model testing
-**python3 test.py**
+python(3) test.py
