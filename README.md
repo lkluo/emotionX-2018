@@ -11,7 +11,7 @@ a request to the organizer). The saved files should be renamed as emotionpush_{t
 or **EmotionPush**, you need to make a formal request to the organizer.
 
 ## Glove
-Please download pre-trained Glove data with 300d size (**glove.840B.300d.txt**) or 50d size (**glove.twitter.27B.50d**.
+Please download pre-trained Glove data with 300d size (**glove.840B.300d.txt**) or 50d size (**glove.twitter.27B.50d**).
 
 ## Model training
 **python3 train.py** or **./train.sh**
